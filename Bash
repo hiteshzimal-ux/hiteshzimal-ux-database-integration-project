@@ -1,0 +1,6 @@
+mkdir database-integration-project
+cd database-integration-project
+
+npm install
+
+npm run dev
